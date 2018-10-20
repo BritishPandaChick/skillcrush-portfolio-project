@@ -1,5 +1,8 @@
-# skillcrush-portfolio-project
+# Sarah Bartley Web Designer Portfolio
+Skillcrush Web Designer Blueprint Portfolio. Made with HTML, CSS, and Bootstrap.
 
-Skillcrush Web Designer Blueprint Portfolio
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
 
--Version 1-Made with HTML, CSS, and Bootstrap
+## Contributing
+Please contact me if you would like to contribute to this application.
