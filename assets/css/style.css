@@ -1,9 +1,9 @@
-/* Basic Styles */
+/* === Basic Styles ===*/
 body {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* Grid System */
+/* === Grid System === */
 .full-width {
   width: 100%;
   margin: 0 auto;
@@ -19,7 +19,7 @@ body {
   float: left;
 }
 
-/* Header */
+/* === Header === */
 header {
   background-color: firebrick;
   height: 120px;
@@ -54,7 +54,7 @@ header nav ul li a:hover {
   color: darkblue;
 }
 
-/* Name */
+/* === Name === */
 #name {
   height: 300px;
 }
@@ -75,7 +75,7 @@ header nav ul li a:hover {
   text-align: center;
 }
 
-/* Quote */
+/* === Quote === */
 #quote {
   height: 400px;
 }
@@ -95,7 +95,7 @@ header nav ul li a:hover {
   padding-left: 50px;
 }
 
-/* Blog */
+/* === Blog === */
 #blog {
   height: 400px;
 }
@@ -127,7 +127,7 @@ header nav ul li a:hover {
   text-decoration: none;
 }
 
-/* Crafts */
+/* === Crafts === */
 #crafts {
   height: 400px;
 }
@@ -151,7 +151,7 @@ header nav ul li a:hover {
   font-size: 32px;
 }
 
-/* Footer */
+/* === Footer === */
 footer {
   height: 100px;
   background-color: firebrick;
@@ -180,7 +180,7 @@ footer nav ul li i:hover {
   color: darkblue;
 }
 
-/* About Page */
+/* === About Page === */
 #about {
   height: 500px;
   padding-left: 20px;
@@ -231,7 +231,7 @@ footer nav ul li i:hover {
   font-weight: bold;
 }
 
-/* Portfolio */
+/* === Portfolio === */
 #portfolio {
   height: 400px;
 }
@@ -342,7 +342,7 @@ footer nav ul li i:hover {
   text-decoration: none;
 }
 
-/* Contact */
+/* === Contact === */
 #contact {
   height: 500px;
   padding-left: 80px;
