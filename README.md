@@ -1,5 +1,5 @@
 # Sarah Bartley Web Designer Portfolio
-Portfolio for the Skillcrush Web Designer Blueprint. First version of my portfolio website.
+Portfolio for the Skillcrush Web Designer Blueprint. One of the earliest versions of my portfolio website.
 
 ## Dependencies 
 * HTML
